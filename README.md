@@ -12,7 +12,7 @@ The CAN1 and CAN2 ports have an optional 120-ohm termination resistor.  The CAN1
 This repository contains the gerber files for my Rev 2 PCB.  The file ```documentation/can_mim_mon_loadlist.txt``` contains a simple BOM.  Parts may be ordered from my [Mouser shared project](https://www.mouser.com/Tools/Project/Share?AccessID=fedc605491).
 
 ### PCB
-The two-sided PCB is 2.75 x 1.9" (69.85 x 48.26mm) and may be ordered as a [PCBWay shared project]().
+The two-sided PCB is 2.75 x 1.9" (69.85 x 48.26mm) and may be ordered as a [PCBWay shared project](https://www.pcbway.com/project/shareproject/CAN_MIM_MON_CAN_Bus_reverse_engineering_interface_41c90bec.html).
 
 ![CAN MIM Mon PCB render](pictures/can_mim_mon_pcb.jpg)
 
