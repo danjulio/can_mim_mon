@@ -1,4 +1,7 @@
 ## CAN MIM MON
+Note: I am currently testing this design further.  I saw something that made me wonder if some monitored packets are lost.
+
+
 CAN Bus Man-in-the-middle monitor for reverse engineering.  Based on the TI [Isolated CAN FD Repeater Reference Design](https://www.ti.com/tool/TIDA-01487) this circuit board is designed to be placed between a CAN Bus and a specific ECU to identify CAN Bus messages originating from that ECU.  It is a CAN Bus repeater with two additional CAN Bus ports to send the bus traffic to an external logging device.  It can also be used as a simple repeater to allow communication with an existing bus without adding a large stub for the external device (allowing it to be remote from the system under study).
 
 ![CAN MIM Mon PCB Assembly](pictures/can_mim_mon_pcb_assy.jpg)
